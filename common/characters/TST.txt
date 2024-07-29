@@ -1,9 +1,9 @@
-characters={
-	TST_1_advisor_civilian={
+characters = {
+	TST_1_advisor_civilian = {
 		allowed_civil_war = {
 			has_government = communism
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_1_advisor_civilian
@@ -19,17 +19,17 @@ characters={
 				}
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_1
 			}
 		}
 	}
-	TST_2_advisor_civilian={
+	TST_2_advisor_civilian = {
 		allowed_civil_war = {
 			has_government = democratic
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_2_advisor_civilian
@@ -45,17 +45,17 @@ characters={
 				}
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_3_advisor_civilian={
+	TST_3_advisor_civilian = {
 		allowed_civil_war = {
 			has_government = fascism
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_3_advisor_civilian
@@ -71,17 +71,17 @@ characters={
 				}
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_3
 			}
 		}
 	}
-	TST_4_advisor_civilian={
+	TST_4_advisor_civilian = {
 		allowed_civil_war = {
 			has_government = neutrality
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_4_advisor_civilian
@@ -97,17 +97,17 @@ characters={
 				}
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_3
 			}
 		}
 	}
-	TST_5_advisor_civilian={
+	TST_5_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_5_advisor_civilian
@@ -118,17 +118,17 @@ characters={
 				captain_of_industry
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_6_advisor_civilian={
+	TST_6_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_6_advisor_civilian
@@ -139,17 +139,17 @@ characters={
 				war_industrialist
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_7_advisor_civilian={
+	TST_7_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_7_advisor_civilian
@@ -160,17 +160,17 @@ characters={
 				backroom_backstabber
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_8_advisor_civilian={
+	TST_8_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_8_advisor_civilian
@@ -181,17 +181,17 @@ characters={
 				fortification_engineer
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_9_advisor_civilian={
+	TST_9_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_9_advisor_civilian
@@ -202,17 +202,17 @@ characters={
 				ideological_crusader 
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_10_advisor_civilian={
+	TST_10_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_10_advisor_civilian
@@ -223,17 +223,17 @@ characters={
 				smooth_talking_charmer
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_11_advisor_civilian={
+	TST_11_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_11_advisor_civilian
@@ -244,17 +244,17 @@ characters={
 				compassionate_gentleman 
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_12_advisor_civilian={
+	TST_12_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_12_advisor_civilian
@@ -265,17 +265,17 @@ characters={
 				prince_of_terror 
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_13_advisor_civilian={
+	TST_13_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_13_advisor_civilian
@@ -286,17 +286,17 @@ characters={
 				silent_workhorse 
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_14_advisor_civilian={
+	TST_14_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_14_advisor_civilian
@@ -307,17 +307,17 @@ characters={
 				technocrat 
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_15_advisor_civilian={
+	TST_15_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_15_advisor_civilian
@@ -328,17 +328,17 @@ characters={
 				propaganda_expert 
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_16_advisor_civilian={
+	TST_16_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_16_advisor_civilian
@@ -349,17 +349,17 @@ characters={
 				financial_expert 
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_17_advisor_civilian={
+	TST_17_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_17_advisor_civilian
@@ -370,17 +370,17 @@ characters={
 				economist  
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_18_advisor_civilian={
+	TST_18_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_18_advisor_civilian
@@ -391,17 +391,17 @@ characters={
 				editor  
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_19_advisor_civilian={
+	TST_19_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_19_advisor_civilian
@@ -412,17 +412,17 @@ characters={
 				armaments_organizer  
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_20_advisor_civilian={
+	TST_20_advisor_civilian = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = political_advisor
 			cost = 100
 			idea_token = TST_20_advisor_civilian
@@ -433,17 +433,17 @@ characters={
 				reluctant_interventionist  
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_1_army_chief={
+	TST_1_army_chief = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = army_chief
 			cost = 100	
 			idea_token = TST_1_army_chief
@@ -455,17 +455,17 @@ characters={
 				army_chief_offensive_1
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_2_army_chief={
+	TST_2_army_chief = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = army_chief
 			cost = 100	
 			idea_token = TST_2_army_chief
@@ -477,17 +477,17 @@ characters={
 				army_chief_defensive_1
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_3_army_chief={
+	TST_3_army_chief = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = army_chief
 			cost = 100	
 			idea_token = TST_3_army_chief
@@ -499,17 +499,17 @@ characters={
 				army_chief_old_guard
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_4_army_chief={
+	TST_4_army_chief = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = army_chief
 			cost = 100	
 			idea_token = TST_4_army_chief
@@ -521,17 +521,17 @@ characters={
 				army_chief_reform_2
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_5_army_chief={
+	TST_5_army_chief = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = army_chief
 			cost = 100	
 			idea_token = TST_5_army_chief
@@ -543,17 +543,17 @@ characters={
 				army_chief_drill_2
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_6_army_chief={
+	TST_6_army_chief = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = army_chief
 			cost = 100	
 			idea_token = TST_6_army_chief
@@ -565,17 +565,17 @@ characters={
 				army_chief_organizational_2
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_7_army_chief={
+	TST_7_army_chief = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = army_chief
 			cost = 100	
 			idea_token = TST_7_army_chief
@@ -587,17 +587,17 @@ characters={
 				army_chief_morale_2
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_1_high_command={
+	TST_1_high_command = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = high_command
 			cost = 100
 			idea_token = TST_1_high_command
@@ -608,17 +608,17 @@ characters={
 				army_infantry_1
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_2_high_command={
+	TST_2_high_command = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = high_command
 			cost = 100
 			idea_token = TST_2_high_command
@@ -629,17 +629,17 @@ characters={
 				army_armored_1
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_3_high_command={
+	TST_3_high_command = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = high_command
 			cost = 100
 			idea_token = TST_3_high_command
@@ -650,17 +650,17 @@ characters={
 				army_artillery_1
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_4_high_command={
+	TST_4_high_command = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = high_command
 			cost = 100
 			idea_token = TST_4_high_command
@@ -671,17 +671,17 @@ characters={
 				army_commando_1
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_5_high_command={
+	TST_5_high_command = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = high_command
 			cost = 100
 			idea_token = TST_5_high_command
@@ -692,17 +692,17 @@ characters={
 				army_cavalry_1
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_6_high_command={
+	TST_6_high_command = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = high_command
 			cost = 100
 			idea_token = TST_6_high_command
@@ -713,17 +713,17 @@ characters={
 				army_CombinedArms_1
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_7_high_command={
+	TST_7_high_command = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = high_command
 			cost = 100
 			idea_token = TST_7_high_command
@@ -734,17 +734,17 @@ characters={
 				army_regrouping_1
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
 	}
-	TST_8_high_command={
+	TST_8_high_command = {
 		allowed_civil_war = {
 			always = yes
 		}
-		advisor={
+		advisor = {
 			slot = high_command
 			cost = 100
 			idea_token = TST_8_high_command
@@ -755,8 +755,8 @@ characters={
 				army_concealment_1
 			}
 		}
-		portraits={
-			civilian={
+		portraits = {
+			civilian = {
 				small=GFX_idea_europe_generic_2
 			}
 		}
